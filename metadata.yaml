@@ -24,6 +24,8 @@ creator:
     gutenberg_agent_id: '34434'
     url: http://www.gutenberg.org/2009/agents/34434
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37355#Pray-You-Sir-Whose-Daughter-
 gutenberg_issued: '2013-03-16'
 gutenberg_type: Text
 identifiers:
