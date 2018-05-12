@@ -1,0 +1,39 @@
+_repo: Pray-You-Sir-Whose-Daughter-_37355
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Stanton, Elizabeth Cady
+    aliases:
+    - Stanton, E. Cady (Elizabeth Cady)
+    - Stanton, Lizzie
+    - Cady, Elizabeth
+    birthdate: 1815
+    deathdate: 1902
+    gutenberg_agent_id: '3186'
+    url: http://www.gutenberg.org/2009/agents/3186
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Cady_Stanton
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gardener, Helen H. (Helen Hamilton)
+    alias: Chenoweth, Alice
+    birthdate: 1853
+    deathdate: 1925
+    gutenberg_agent_id: '34434'
+    url: http://www.gutenberg.org/2009/agents/34434
+description: ''
+gutenberg_issued: '2013-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37355'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: Pray You, Sir, Whose Daughter?
+url: http://www.gutenberg.org/ebooks/37355
